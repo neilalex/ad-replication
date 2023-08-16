@@ -1,7 +1,7 @@
 # ad-replication
 > Paper Replication: The Growth of Low-Skill Service Jobs and the Polarization of the U.S. Labor Market (AER 2013)
 
-Replicates David Autor and David Dorn's 2013 American Economic Review paper titled "The Growth of Low-Skill Service Jobs and the Polarization of the U.S. Labor Market." For a discussion, please see [https://neilalex.com/are-studies-in-income-inequality-robust-this-ones-pretty-good/](https://neilalex.com/are-studies-in-income-inequality-robust-this-ones-pretty-good/).
+Replicates David Autor and David Dorn's 2013 American Economic Review paper titled "The Growth of Low-Skill Service Jobs and the Polarization of the U.S. Labor Market." For a discussion, please see [https://neilalex.com/paper-replication-the-growth-of-low-skill-services-jobs-and-the-polarization-of-the-us-labor-market/](https://neilalex.com/paper-replication-the-growth-of-low-skill-services-jobs-and-the-polarization-of-the-us-labor-market/).
 
 
 &nbsp;
